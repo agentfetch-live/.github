@@ -10,5 +10,3 @@ Field notes on giving AI agents web access they can actually use.
 ```bash
 npx @agentfetch-live/cli fetch https://example.com -o text
 ```
-
-Built on the [Live Web Data API](https://livewebdata.com).
