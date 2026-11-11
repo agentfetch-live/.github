@@ -11,4 +11,4 @@ Field notes on giving AI agents web access they can actually use.
 npx @agentfetch-live/cli fetch https://example.com -o text
 ```
 
-A [Teneo Labs](https://agentfetch.live/imprint) project, built on the [Live Web Data API](https://livewebdata.com).
+Built on the [Live Web Data API](https://livewebdata.com).
